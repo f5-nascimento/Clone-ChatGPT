@@ -31,7 +31,6 @@ Você pode conferir o design da interface no [link do Figma](https://www.figma.c
 
 ![gpt](https://github.com/f5-nascimento/Clone-ChatGPT/assets/28812188/f772404f-ad3f-4132-b636-eb0e835cb0ae)
 
-
 ## Deploy
 
 O projeto está disponível em [Clone-ChatGPT no Vercel](https://clone-chat-gpt-zeta.vercel.app/) para visualização.
